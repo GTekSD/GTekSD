@@ -6,6 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suhas1799) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cr34t0r_Cyxac)
 [![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?flat&logo=Snapchat&logoColor=white)](https://snapchat.com/add/suhas.hfx)
+[![ВКонтакте-VK](https://img.shields.io/badge/ВКонтакте-0077FF.svg?logo=vk&logoColor=white)](https://vk.com/suhas1799) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/suhas-gtek) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/gteksd) 
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Er-Suhas-Dhole) 
@@ -29,10 +30,10 @@
 ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=flat&logo=apple&logoColor=white) 
 ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=flat&logo=android&logoColor=%a4c639) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Kali](https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=flat&logo=kalilinux&logoColor=white) 
+![Kali](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white) 
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat&logo=redhat&logoColor=white)
-![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=flat&logo=centos&logoColor=F0F0F0)
+![Cent OS](https://img.shields.io/badge/cent%20OS-002260?style=flat&logo=centos&logoColor=F0F0F0)
 ![macOS](https://img.shields.io/badge/mac%20OS-000000?style=flat&logo=apple&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows11&logoColor=white)
 
@@ -44,22 +45,11 @@
 
 ![HackTheBox](https://img.shields.io/badge/-HackTheBox-%239FEF00?style=flat&logo=hackthebox&logoColor=white) 
 ![TryHackMe](https://img.shields.io/badge/-TryHackMe-%23212C42?style=flat&logo=tryhackme&logoColor=white) 
+
 ![HackerOne](https://img.shields.io/badge/-HackerOne-%23494649?style=flat&logo=hackerone&logoColor=white) 
 ![Bugcrowd](https://img.shields.io/badge/-Bugcrowd-%23F26822?style=flat&logo=bugcrowd&logoColor=white) 
 ![Intigriti](https://img.shields.io/badge/-Intigriti-%23161A36?style=flat&logo=intigriti&logoColor=white) 
-![Secure](https://img.shields.io/badge/-F--Secure-%2300BAFF?style=flat&logo=fsecure&logoColor=white) 
-![Spring](https://img.shields.io/badge/-Spring%20Security-%236DB33F?style=flat&logo=springsecurity&logoColor=white) 
-![Hackaday](https://img.shields.io/badge/-Hackaday-%231A1A1A?style=flat&logo=hackaday&logoColor=white) 
-![Wireshark](https://img.shields.io/badge/-Wireshark-%231679A7?style=flat&logo=wireshark&logoColor=white) 
-![Symantec](https://img.shields.io/badge/-Symantec-%23FDB511?style=flat&logo=symantec&logoColor=white) 
-![Tor](https://img.shields.io/badge/Tor-7D4698?style=flat&logo=torproject&logoColor=white) 
-![OPNSense](https://img.shields.io/badge/-OPNSense-%23D94F00?style=flat&logo=opnsense&logoColor=white) 
-![pfSense](https://img.shields.io/badge/-pfSense-%23212121?style=flat&logo=pfsense&logoColor=white) 
-![VirusTotal](https://img.shields.io/badge/-VirusTotal-%23394EFF?style=flat&logo=virustotal&logoColor=white) 
-![Elastic](https://img.shields.io/badge/-Elastic-%23005571?style=flat&logo=elastic&logoColor=white) 
 ![Open](https://img.shields.io/badge/-Open%20Bug%20Bounty-%23F67909?style=flat&logo=openbugbounty&logoColor=white) 
-![Hack](https://img.shields.io/badge/-Hack%20Club-%23EC3750?style=flat&logo=hackclub&logoColor=white) 
-![McAfee](https://img.shields.io/badge/-McAfee-%23C01818?style=flat&logo=mcafee&logoColor=white) 
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gteksd&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
