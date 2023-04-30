@@ -21,10 +21,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=gteksd&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://user-images.githubusercontent.com/55411358/235351260-e3676fd1-91cd-4ac6-b4c7-9dbcec4afef6.png/" width="512px"/>
-![hacking](https://user-images.githubusercontent.com/55411358/235351407-91c0ab11-9b16-490b-914c-c4c8aee508c0.jpeg)
-
+### 😂 Random Sec Meme
+<img src="images/hacking-meme.jpg" width="512px"/>
 
 
 ---
