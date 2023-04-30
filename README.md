@@ -22,7 +22,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=gteksd&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://user-images.githubusercontent.com/55411358/235351260-e3676fd1-91cd-4ac6-b4c7-9dbcec4afef6.png/" width="512px"/> 
+<img src="https://user-images.githubusercontent.com/55411358/235351260-e3676fd1-91cd-4ac6-b4c7-9dbcec4afef6.png/" width="512px"/>
+![image](https://user-images.githubusercontent.com/55411358/235351319-4f758c62-cc5c-4d89-bb2a-923b1ce85c60.png)
+
 
 
 ---
