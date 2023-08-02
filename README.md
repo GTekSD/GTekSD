@@ -15,16 +15,16 @@
 [![WiX](https://img.shields.io/badge/gteksd.com-0C6EFC?style=flat&logo=wix&logoColor=white)](https://gteksd.wixsite.com/noob)
 
 ## 💻 Tech Stack:
-[![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/) 
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) 
-[![Shell Script](https://img.shields.io/badge/Shell%20Script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)](https://www.tutorialspoint.com/unix/shell_scripting.htm) 
+[![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.learn-cpp.org/) 
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)](https://www.learn-cpp.org/) 
+[![Shell Script](https://img.shields.io/badge/Shell%20Script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)](https://www.learnshell.org/) 
 [![Batch Scripting](https://img.shields.io/badge/Batch%20Script-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white)](https://www.tutorialspoint.com/batch_script/index.htm)
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE.svg?style=flat&logo=powershell&logoColor=white)](https://github.com/PowerShell/PowerShell)
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)](https://www.php.net/) 
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) 
-[![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org/) 
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)](https://www.learn-php.org/) 
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)](https://www.learnsqlonline.org/) 
+[![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://www.learn-html.org/) 
 [![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)](https://www.w3.org/TR/CSS/#css) 
-[![JavaScript](https://img.shields.io/badge/JavasSript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](https://www.w3schools.com/js/DEFAULT.asp) 
+[![JavaScript](https://img.shields.io/badge/JavasSript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](https://www.learn-js.org/) 
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)](https://www.markdownguide.org/) 
 
 [![iOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=flat&logo=apple&logoColor=white)](https://www.apple.com/in/ios/ios-16/) 
