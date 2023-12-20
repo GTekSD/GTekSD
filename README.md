@@ -1,7 +1,6 @@
-## 💫 About Me:  [![](https://visitcount.itsvg.in/api?id=gteksd&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 [![](https://visitcount.itsvg.in/api?id=gteksd&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+## 💫 About Me:
 🔭 I’m currently working on Network PT Tool Script<br>🌱 I’m currently learning RED-Teaming<br>💬 Ask me about Cybersecurity, InfoSec, Hacking, Pen-testing and Red-Teaming<br>⚡ Fun fact: Don't ask me Hack into ur girlfriend's account.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suhas1799) 
