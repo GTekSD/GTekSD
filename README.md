@@ -1,5 +1,5 @@
-## 💫 About Me: [![](https://visitcount.itsvg.in/api?id=gteksd&icon=0&color=0)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=gteksd&icon=0&color=0)](https://visitcount.itsvg.in)
+## 💫 About Me:  [![](https://visitcount.itsvg.in/api?id=gteksd&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=gteksd&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 🔭 I’m currently working on Network PT Tool Script<br>🌱 I’m currently learning RED-Teaming<br>💬 Ask me about Cybersecurity, InfoSec, Hacking, Pen-testing and Red-Teaming<br>⚡ Fun fact: Don't ask me Hack into ur girlfriend's account.
 
 
