@@ -60,7 +60,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=gteksd&theme=darkhub&no-frame=false&no-bg=true&margin-w=5)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=cr34t0r_Cyxac)](https://twitter.com/cr34t0r_Cyxac)
 <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=cr34t0r_Cyxac&theme=tokyonight&response=false&border=false&time=true&icon=badge"/></a>
 
 ### 🔝 Top Contributed Repo
