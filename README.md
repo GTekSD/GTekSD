@@ -61,6 +61,7 @@
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=cr34t0r_Cyxac)](https://twitter.com/cr34t0r_Cyxac)
+<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=cr34t0r_Cyxac&theme=tokyonight&response=false&border=false&time=true&icon=badge"/></a>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=gteksd&limit=5&theme=dark&combine_all_yearly_contributions=true)
