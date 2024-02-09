@@ -1,8 +1,12 @@
 [![](https://visitcount.itsvg.in/api?id=gteksd&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
-## 💫 About Me:
-🔭 I’m currently working on Network PT Tool Script<br>🌱 I’m currently learning RED-Teaming<br>💬 Ask me about Cybersecurity, InfoSec, Hacking, Pen-testing and Red-Teaming<br>⚡ Fun fact: Don't ask me Hack into ur girlfriend's account.
+## :dizzy: About Me:
+:telescope: I’m currently working on Network PT Tool Script<br>
+:seedling: I’m currently learning RED-Teaming and Cloud Pentesting<br>
+:speech_balloon: Ask me about Cybersecurity, InfoSec, Hacking, Pen-Testing and Red-Teaming<br>
+:notebook_with_decorative_cover: Wanna learn Cybersecurity? [Gottcha ma boi!](https://github.com/GTekSD/SUASS)
+:zap: Fun fact: Don't ask me Hack into ur girlfriend's account.
 
-## 🌐 Socials:
+## :globe_with_meridians: Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suhas1799) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cr34t0r_Cyxac)
 [![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?flat&logo=Snapchat&logoColor=white)](https://snapchat.com/add/suhas.hfx)
@@ -14,7 +18,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@don-t_be_a_n00b) 
 [![WiX](https://img.shields.io/badge/gteksd.com-0C6EFC?style=flat&logo=wix&logoColor=white)](https://gteksd.wixsite.com/noob)
 
-## 💻 Tech Stack:
+## :computer: Tech Stack:
 [![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.learn-cpp.org/) 
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)](https://www.learn-cpp.org/) 
 [![Shell Script](https://img.shields.io/badge/Shell%20Script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)](https://www.learnshell.org/) 
@@ -51,26 +55,26 @@
 [![Intigriti](https://img.shields.io/badge/-Intigriti-%23161A36?style=flat&logo=intigriti&logoColor=white)](https://app.intigriti.com/researcher/dashboard) 
 [![Open](https://img.shields.io/badge/-Open%20Bug%20Bounty-%23F67909?style=flat&logo=openbugbounty&logoColor=white)](https://www.openbugbounty.org/) 
 
-## 📊 GitHub Stats:
+## :bar_chart: GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gteksd&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gteksd&theme=blue-green&hide_border=false)<br/> 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gteksd&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## :trophy: GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gteksd&theme=darkhub&no-frame=false&no-bg=true&margin-w=5)
 
-## 🐦 Latest Tweet
+## :bird: Latest Tweet
 <a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=cr34t0r_Cyxac&theme=tokyonight&response=false&border=false&time=true&icon=badge"/></a>
 
-### 🔝 Top Contributed Repo
+### :top: Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=gteksd&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Sec Meme
+### :rofl: Random Sec Meme
 <img src="images/hacking-meme.jpg" width="512px"/>
 
 ---
 
-  ## 💰 You can help me by Donating
+  ## :moneybag: You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gteksd) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/gteksd) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/gteksd) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/gteksd) 
 
 
