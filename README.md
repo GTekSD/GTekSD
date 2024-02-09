@@ -3,8 +3,8 @@
 :telescope: I’m currently working on Network PT Tool Script<br>
 :seedling: I’m currently learning RED-Teaming and Cloud Pentesting<br>
 :speech_balloon: Ask me about Cybersecurity, InfoSec, Hacking, Pen-Testing and Red-Teaming<br>
-:notebook_with_decorative_cover: Wanna learn Cybersecurity? [Gottcha ma boi!](https://github.com/GTekSD/SUASS)
-:zap: Fun fact: Don't ask me Hack into ur girlfriend's account.
+:notebook_with_decorative_cover: Wanna learn Cybersecurity? [Gottcha ma boi!](https://github.com/GTekSD/SUASS)<br>
+:zap: Fun fact: Don't ask me Hack into ur girlfriend's account.<br>
 
 ## :globe_with_meridians: Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suhas1799) 
