@@ -1,10 +1,23 @@
-[![](https://visitcount.itsvg.in/api?id=gteksd&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://static.wixstatic.com/media/d19fb7_a46a40eb73954e09ad73354180612dc8~mv2.png/v1/fill/w_240,h_82,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/GTekSD%20Full%20logo%20background%20WTMRK.png" alt="Logo_Green_text" height="50">
+</p>
+
+👋 Hi there! I'm **GTekSD**, a passionate developer and security enthusiast. Welcome to my GitHub profile!
+
+[![gteksd](https://visitcount.itsvg.in/api?id=gteksd&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in) 
+
 ## :dizzy: About Me:
-:telescope: I’m currently working on Network PT Tool Script<br>
-:seedling: I’m currently learning RED-Teaming and Cloud Pentesting<br>
-:speech_balloon: Ask me about Cybersecurity, InfoSec, Hacking, Pen-Testing and Red-Teaming<br>
+:telescope: I’m currently working on various security-related projects.<br>
+:seedling: I’m constantly learning and exploring new technologies, currently learning RedTeaming and LLM Security<br>
+:speech_balloon: Ask me about Cybersecurity, InfoSec, Application Security, Pen-Testing and Red-Teaming<br>
 :notebook_with_decorative_cover: Wanna learn Cybersecurity? [Gotchu homie!](https://github.com/GTekSD/SUASS)<br>
-:zap: Fun fact: Don't ask me Hack into ur girlfriend's account.<br>
+:zap: Fun fact: Don't ask me Hack into ur girlfriend's account.<be>
+
+## Projects
+
+Here are some of the projects I'm currently working on:
+
+#### [SUASS](https://github.com/GTekSD/SUASS) : A comprehensive guide and toolkit for Application pentesting.
 
 ## :globe_with_meridians: Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suhas1799) 
