@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://static.wixstatic.com/media/d19fb7_a46a40eb73954e09ad73354180612dc8~mv2.png/v1/fill/w_240,h_82,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/GTekSD%20Full%20logo%20background%20WTMRK.png" alt="Logo_Green_text" height="50">
+  <img src="https://github.com/user-attachments/assets/f8da0daf-8d03-448b-b8b2-566d585d1d20" alt="Logo_GTekSD" height="150">
 </p>
 
 👋 Hi there! I'm **GTekSD**, a passionate developer and security enthusiast. Welcome to my GitHub profile!
