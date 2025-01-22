@@ -5,6 +5,9 @@
 👋 Hi there! I'm **GTekSD**, a passionate developer and security enthusiast. Welcome to my GitHub profile!
 
 [![gteksd](https://visitcount.itsvg.in/api?id=gteksd&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in) 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=gteksd&label=Profile%20Views&pretty=true" />
+</a>
 
 ## :dizzy: About Me:
 :telescope: I’m currently working on various security-related projects.<br>
